@@ -31,3 +31,7 @@
   * Spring
   * MySql
   * Redis
+
+## ERD
+<img width="1212" alt="스크린샷 2023-08-23 오전 12 02 41" src="https://github.com/hyunsang1/LOL_Records_Service/assets/130028100/7cf1fb82-4852-4a1c-94aa-980dd3a3dd45">
+
