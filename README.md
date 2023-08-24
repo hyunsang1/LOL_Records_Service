@@ -33,5 +33,6 @@
   * Redis
 
 ## ERD
-<img width="1212" alt="스크린샷 2023-08-23 오전 12 02 41" src="https://github.com/hyunsang1/LOL_Records_Service/assets/130028100/7cf1fb82-4852-4a1c-94aa-980dd3a3dd45">
+<img width="743" alt="스크린샷 2023-08-24 오후 9 54 32" src="https://github.com/hyunsang1/LOL_Records_Service/assets/130028100/84b498c4-b076-46c7-8dac-af9ec43c5033">
+
 
